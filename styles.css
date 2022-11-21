@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 #btn {
+    padding: 10px;
     background-color: black;
     color: #fff;
     border: none;
